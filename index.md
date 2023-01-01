@@ -6,7 +6,7 @@ The free Android app **Simple Teleprompter** was developed and released by Julia
 
 ### Privacy Policy
 
-The app's privacy policy can be found <a href = "privacy_policy.md">here</a>.
+The app's privacy policy can be found [here](/privacy_policy.md).
 
 ### Contact
 
