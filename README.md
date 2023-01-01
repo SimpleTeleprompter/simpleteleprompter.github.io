@@ -1,1 +1,0 @@
-# simpleteleprompter.github.io
