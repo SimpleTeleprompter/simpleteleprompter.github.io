@@ -2,7 +2,7 @@
 
 ### General
 
-The free Android app **Simple Teleprompter** was developed and released by Julian Schakib in August 2016.
+The free Android app **Simple Teleprompter** was developed and released by Julian Schakib in August 2015.
 
 ### Privacy Policy
 
