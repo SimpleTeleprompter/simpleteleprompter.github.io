@@ -20,7 +20,7 @@ The `READ_EXTERNAL_STORAGE` permission is used to let users browse for and impor
 
 If the policy changes, the modification date below will be updated. The policy may change from time to time, so please be sure to check back periodically.
 
-*Last modified: 01 January, 2023.*
+*Last modified: 17 March, 2024.*
 
 ### Contact
 
